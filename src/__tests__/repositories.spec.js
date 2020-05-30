@@ -84,13 +84,11 @@ describe("Repositories", () => {
         title: "Umbriel",
         techs: ["React", "ReactNative", "TypeScript", "ContextApi"]
       });
-
     const response = await request(app)
       .put(`/repositories/${repository.body.id}`)
       .send({
         likes: 15
       });
-
     expect(response.body).toMatchObject({
       likes: 0
     });
