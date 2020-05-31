@@ -95,7 +95,9 @@ Um uso global, tanto pra mobile, quanto para web. Ou seja, uso global.
 
 ## Conteúdo de requisição
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de579dad-29a1-48d0-8bbc-074b42744c28/Captura_de_tela_2020-05-26_10-20-12.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de579dad-29a1-48d0-8bbc-074b42744c28/Captura_de_tela_2020-05-26_10-20-12.png)
+<h1>
+  <img src = "./Captura_de_tela_2020-05-26_10-20-12.png">
+</h1>
 
 ## HTTP codes
 
